@@ -24,6 +24,6 @@ Relevant Files:
 
 - yash-patel-project1-part3.ipynb (part 3 ipynb)
     - This Jupyter notebook will perform the data visualizations using Matplotlib to answer the 4 questions.
-    - Used pandas to read from csv file, and quanitfy data. 
+    - Used pandas to read from csv file, and quantify data. 
     - Used Matplotlib to create bar graphs and pie charts to visualize data. 
     - Analysis is performed in the notebook using Markdown comments.
